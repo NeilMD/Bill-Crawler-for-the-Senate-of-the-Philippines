@@ -1,91 +1,81 @@
 <?php
-	//Linux. Dont Matter
-	// ini_set('allow_url_fopen', 1); 
-// ini_set("implicit_flush", "0");
-	// BASE URL
+	require 'db.php';
+
 	$base = 'http://senate.gov.ph/lis/leg_sys.aspx?congress=17&type=bill&p=';
-	
-	//PHP 
-	$doc = new DOMDocument();
-	//GET. 
-	$page = file_get_contents($base);
-
-	// MAKE A DOMDOCUMENT Class
-	$doc->loadHTML($page);
-	
-	$list = $doc->getElementsByTagName("a");
-
-	foreach ($list as $i) {
-		if(strpos($i->getAttribute("href"),'bill_re') !== false){
-			echo $i->getAttribute("href").'<br/>';
-
-			$article = "http://senate.gov.ph/lis/".$i->getAttribute("href");
-
-			//REPEAT
-			$doc = new DOMDOCUMENT();
-				
-			$page = file_get_contents($article);
-
-			$doc->loadHTML($page);
-
+	$break = false;
+	for($ctrx = 1;$ctrx < 3 && !$break; $ctrx++){
 		
+		//PHP 
+		$doc = new DOMDocument();
+		$sctr = $ctrx.'';
+		//GET. 
+		echo "<h5>PAGE :".$sctr."</h5> <br/>";
+		$page = file_get_contents($base.$sctr);
+		echo $base.$sctr."<br/>";
+		// MAKE A DOMDOCUMENT Class
+		$doc->loadHTML($page);
+		
+		$list = $doc->getElementsByTagName("a");
+		$break = true;
+		foreach ($list as $i) {
 
-			$tds = $doc->getElementsByTagName("td");
 			
-			
-			
-			for($ctr = 0; $ctr < $tds->length; $ctr++){
-				$td = $tds->item($ctr);
-				
+			if(strpos($i->getAttribute("href"),'bill_re') !== false){
+				echo "URL: ".$i->getAttribute("href").'<br/>';				
+				$article = "http://senate.gov.ph/lis/".$i->getAttribute("href");
 
-				if($td->getAttribute("id") == 'content'){
-					$td = clean($td);
-					echo($td->childNodes->length);
-					echo "<br/>";
+				//REPEAT
+				$doc = new DOMDOCUMENT();
+					
+				$page = file_get_contents($article);
 
-					echo ($td->childNodes->item(0)->wholeText)."<br/>";
-					echo ($td->childNodes->item(2)->wholeText)."<br/>";
-					echo ($td->childNodes->item(3)->childNodes->item(0)->childNodes->item(0)->wholeText)."<br/>";
-					echo ($td->childNodes->item(4)->wholeText)."<br/> <hr/>";
+				$doc->loadHTML($page);
+		
+				$tds = $doc->getElementsByTagName("td");
 
+				for($ctr = 0; $ctr < $tds->length; $ctr++){
+					$td = $tds->item($ctr);	
 
-					
-					// echo $td->nodeValue."<br/>";
-					
-					
+					if($td->getAttribute("id") == 'content'){
+						$td = clean($td);
+						// Congress Number
+						$congressNumber = ($td->childNodes->item(0)->wholeText);
+						echo $congressNumber."<br/>";
+						// Senate Bill Number
+						$billNumber = ($td->childNodes->item(2)->wholeText);
+						echo $billNumber."<br/>";
+						// Bill Title
+						$billTitle = ($td->childNodes->item(3)->childNodes->item(0)->childNodes->item(0)->wholeText);
+						// echo ($td->childNodes->item(3)->childNodes->item(0)->textContent);
+						echo $billTitle."<br/>";
+						// Filed By and Date
+						$filed = ($td->childNodes->item(4)->wholeText);
+						echo $filed."<br/><hr/>";				
+						//INSERT TO DB
+						insert($billNumber, $billTitle, $filed, $db);
 
-					
-					
-					
-				
-					// print_r($td->childNodes->item(3)->nodeValue)."<br/>";
-					// echo $divs->item($ctr+1)->nodeValue;
+					}
+
 				}
 
+				
 			}
 
-			// break;
+			//CHECK FOR NEXT PAGE
+			else if(strpos($i->getAttribute("href"),"leg_sys.aspx?congress=17&type=bill&p") !== false){
+				
+				if(trim($i->childNodes->item(0)->wholeText) == "Next"){
+					// echo "PUMASOK";
+					$break = false;
+				}
+			}						
+
 		}
 		
 
-	}
 
-	function clean($nodes){
-		$new = $nodes;
-
-		for($ctr = 0; $ctr < $nodes->childNodes->length; $ctr++){
-			$node = $nodes->childNodes->item($ctr);
-			
-			if($node->nodeType == 8 || ($node->nodeType == 3 && trim($node->wholeText) == '' ) ){
-				// print_r($node);
-				$new->removeChild($node);
-			}
-		}
-	 
-		return $new;
 
 	}
 
-
-
+	$db->close();
 ?>

@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1431",
+    "billTitle": "TULONG-TRABAHO ACT",
+    "dateFiled": "2017-05-03",
+    "senatorProposed": [
+        "Joel Villanueva"
+    ],
+    "scope": "National",
+    "status": "Pending in the House of Representatives (5/31/2017)",
+    "subjects": [
+        "Technical-Vocational (Tech-Voc)",
+        "Jobs"
+    ],
+    "primaryCommittee": [
+        "Labor, Employment and Human Resources Development"
+    ],
+    "secondaryCommittee": [
+        "Education, Arts and Culture",
+        "Finance"
+    ]
+}

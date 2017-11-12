@@ -1,0 +1,23 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1507",
+    "billTitle": "DIALYSIS CENTER ACT",
+    "dateFiled": "2017-07-25",
+    "senatorProposed": [
+        "Joel Villanueva"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (7/26/2017)",
+    "subjects": [
+        "Dialysis Center",
+        "Dialysis Treatment",
+        "Indigent Person/Indigent Patient"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Social Justice, Welfare and Rural Development",
+        "Finance"
+    ]
+}

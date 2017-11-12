@@ -1,10 +1,11 @@
 <?php
 	
-	ini_set('display_errors', 1); error_reporting(E_ALL);  
+	// ini_set('display_errors', 1); error_reporting(E_ALL);  
 	require 'db.php';
 
 	$base = 'http://senate.gov.ph/lis/leg_sys.aspx?congress=17&type=bill&p=';
 	$break = false;
+	$bCtr = 0;
 	$senator = array();
 	for($ctrx = 1;$ctrx < 250; $ctrx++){
 		$bills = array();
@@ -18,7 +19,7 @@
 		echo $base.$sctr."<br/>";
 		// MAKE A DOMDOCUMENT Class
 		$doc->loadHTML($page);
-		$bCtr = 0;
+		
 		$list = $doc->getElementsByTagName("a");
 		$break = true;
 		foreach ($list as $i) {
@@ -48,6 +49,9 @@
 
 						$congressNumber = str_replace("\r\n            ", "", $congressNumber);
 						$bill->congressNumber = $congressNumber;
+						$longTitle = $td->childNodes->item(8)->childNodes->item(0)->wholeText;
+						echo $longTitle;
+						$bill->longTitle = $longTitle;
 						echo $congressNumber."<br/>";
 						// Senate Bill Number
 						$billNumber = ($td->childNodes->item(2)->wholeText);
@@ -219,6 +223,7 @@
 				$lfile3 = fopen($senateFolder,'w+');
 			    fwrite($lfile3, $senateInfo);
 			    fclose($lfile3);
+			    $bCtr++;
 
 			}	
 
@@ -230,7 +235,7 @@
 					$break = false;
 				}
 			}						
-			$bCtr++;
+			
 		}
 		// var_dump($bills);
 		// SAVE BILL OBJECT

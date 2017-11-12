@@ -1,0 +1,21 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1384",
+    "billTitle": "INTELLIGENCE OVERSIGHT ACT OF 2017",
+    "dateFiled": "2017-03-13",
+    "senatorProposed": [
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (3/14/2017)",
+    "subjects": [
+        "Intelligence Funds/Confidential Funds",
+        "Government Agencies"
+    ],
+    "primaryCommittee": [
+        "National Defense and Security"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

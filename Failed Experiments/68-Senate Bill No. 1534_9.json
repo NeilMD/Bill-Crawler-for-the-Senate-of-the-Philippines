@@ -1,0 +1,27 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1534",
+    "billTitle": "MAGNA CARTA FOR SCIENTIST, ENGINEERS, RESEARCHERS",
+    "dateFiled": "2017-07-31",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Aquilino Koko III L. Pimentel",
+        "Juan Miguel F. Zubiri",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/2/2017)",
+    "subjects": [
+        "Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel",
+        "Scientists/Researchers"
+    ],
+    "primaryCommittee": [
+        "Science and Technology"
+    ],
+    "secondaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation",
+        "Finance"
+    ]
+}

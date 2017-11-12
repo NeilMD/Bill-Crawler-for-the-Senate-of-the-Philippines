@@ -1,0 +1,26 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1458",
+    "billTitle": "UNIVERSAL HEALTH CARE FOR ALL FILIPINOS ACT",
+    "dateFiled": "2017-05-16",
+    "senatorProposed": [
+        "Joseph Victor G. Ejercito",
+        "Maria Lourdes Nancy S. Binay"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/17/2017)",
+    "subjects": [
+        "Universal Health Care",
+        "National Health Insurance",
+        "Health Care",
+        "Health Insurance",
+        "Philippine Health Security Corporation (Philhealth)"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

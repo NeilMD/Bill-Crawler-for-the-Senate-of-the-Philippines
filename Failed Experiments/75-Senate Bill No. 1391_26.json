@@ -1,0 +1,30 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1391",
+    "billTitle": "MANDATORY PHILHEALTH COVERAGE FOR PERSONS WITH DISABILITY",
+    "dateFiled": "2017-03-14",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Risa Hontiveros",
+        "Joel Villanueva",
+        "Ralph G. Recto",
+        "Leila M. De Lima",
+        "Joseph Victor G. Ejercito",
+        "Sherwin T. Gatchalian",
+        "Cynthia A. Villar"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/17/2017)",
+    "subjects": [
+        "Philippine Health Insurance Corporation (Philhealth/Phic)",
+        "Persons with Disabilities (PWDS)",
+        "Magna Carta for Persons with Disability (R.A.No. 7277)"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Social Justice, Welfare and Rural Development"
+    ]
+}

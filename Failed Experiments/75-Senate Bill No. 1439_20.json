@@ -1,0 +1,23 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1439",
+    "billTitle": "ENERGY VIRTUAL ONE STOP SHOP ACT OF 2017",
+    "dateFiled": "2017-05-09",
+    "senatorProposed": [
+        "Sherwin T. Gatchalian",
+        "Juan Miguel F. Zubiri"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/10/2017)",
+    "subjects": [
+        "Energy Generating Facilities",
+        "Department of Energy (DOE)",
+        "Energy Virtual One Stop Shop (Evoss)"
+    ],
+    "primaryCommittee": [
+        "Energy"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

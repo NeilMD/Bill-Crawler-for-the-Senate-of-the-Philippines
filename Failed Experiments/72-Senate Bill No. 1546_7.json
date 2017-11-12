@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1546",
+    "billTitle": "PRIMARY CARE PROVIDER RECRUITMENT ACT OF 2017",
+    "dateFiled": "2017-08-07",
+    "senatorProposed": [
+        "Grace L. Poe"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (8/9/2017)",
+    "subjects": [
+        "Primary Care Provider",
+        "Compensation and Position Classification System"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation",
+        "Finance"
+    ]
+}

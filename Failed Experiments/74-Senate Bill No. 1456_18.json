@@ -1,0 +1,26 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1456",
+    "billTitle": "PHILIPPINE QUALIFICATION FRAMEWORK (PQF) ACT OF 2017",
+    "dateFiled": "2017-05-16",
+    "senatorProposed": [
+        "Joel Villanueva",
+        "Francis \"Chiz\" G. Escudero",
+        "Cynthia A. Villar",
+        "Loren B. Legarda",
+        "Sherwin T. Gatchalian",
+        "Joseph Victor G. Ejercito"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/17/2017)",
+    "subjects": [
+        "Philippine Qualifications Framework (PQF)"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Labor, Employment and Human Resources Development",
+        "Finance"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1583",
+    "billTitle": "LOCAL SCHOOL BOARD ACT",
+    "dateFiled": "2017-09-11",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (9/13/2017)",
+    "subjects": [
+        "Local School Boards"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Local Government",
+        "Finance"
+    ]
+}

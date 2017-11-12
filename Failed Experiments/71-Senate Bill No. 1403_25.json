@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1403",
+    "billTitle": "ESTABLISHING A CENTER FOR AUSTISM",
+    "dateFiled": "2017-03-16",
+    "senatorProposed": [
+        "Joseph Victor G. Ejercito"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/2/2017)",
+    "subjects": [
+        "Autism",
+        "Autism Spectrum Disorder (ASD)"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Women, Children, Family Relations and Gender Equality",
+        "Finance"
+    ]
+}

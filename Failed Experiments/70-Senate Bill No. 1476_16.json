@@ -1,0 +1,24 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1476",
+    "billTitle": "AMENDING R.A. 8178 (AGRICULTURAL TARRIFICATION ACT)",
+    "dateFiled": "2017-05-29",
+    "senatorProposed": [
+        "Ralph G. Recto"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/30/2017)",
+    "subjects": [
+        "Rice Importation",
+        "Agricultural Tariffication Act (R.A.No. 8138)",
+        "Quantitative Import Restrictions",
+        "Rice Competitiveness Enhancement Fund"
+    ],
+    "primaryCommittee": [
+        "Agriculture and Food"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

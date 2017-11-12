@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1417",
+    "billTitle": "CITIZEN SERVICE ACT OF 2017",
+    "dateFiled": "2017-05-02",
+    "senatorProposed": [
+        "Richard J. Gordon"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/3/2017)",
+    "subjects": [
+        "Citizen Service Training Course",
+        "Reserve Officers Training Corps (ROTC)"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Youth",
+        "Finance"
+    ]
+}

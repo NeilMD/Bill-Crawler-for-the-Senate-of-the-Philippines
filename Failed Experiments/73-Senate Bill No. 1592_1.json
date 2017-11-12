@@ -1,0 +1,32 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1592",
+    "billTitle": "TAX REFORM ACCELERATION AND INCLUSION (TRAIN)",
+    "dateFiled": "2017-09-20",
+    "senatorProposed": [
+        "Ralph G. Recto",
+        "Richard J. Gordon",
+        "Loren B. Legarda",
+        "Juan Miguel F. Zubiri",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Cynthia A. Villar",
+        "Joseph Victor G. Ejercito",
+        "Maria Lourdes Nancy S. Binay",
+        "Aquilino Koko III L. Pimentel",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Francis \"Chiz\" G. Escudero",
+        "Vicente C. Sotto III",
+        "Joel Villanueva",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (9/20/2017)",
+    "subjects": [
+        "Tax Reform for Acceleration and Inclusion Act (Train)",
+        "National Internal Revenue Code (NIRC)"
+    ],
+    "primaryCommittee": [
+        "Ways and Means"
+    ],
+    "secondaryCommittee": []
+}

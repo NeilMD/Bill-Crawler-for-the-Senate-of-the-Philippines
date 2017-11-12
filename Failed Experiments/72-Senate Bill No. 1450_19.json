@@ -1,0 +1,20 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1450",
+    "billTitle": "BUDGET REFORM ACT",
+    "dateFiled": "2017-05-11",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Joel Villanueva"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/15/2017)",
+    "subjects": [
+        "Budget Reforms",
+        "Public Financial Management (PFM)"
+    ],
+    "primaryCommittee": [
+        "Finance"
+    ],
+    "secondaryCommittee": []
+}

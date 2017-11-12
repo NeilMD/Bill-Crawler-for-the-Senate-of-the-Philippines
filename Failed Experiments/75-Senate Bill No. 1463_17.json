@@ -1,0 +1,34 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1463",
+    "billTitle": "UNIFORMED AND LAW ENFORCEMENT PERSONNEL EDUCATIONAL ASSISTANCE AND BENEFITS ACT",
+    "dateFiled": "2017-05-22",
+    "senatorProposed": [
+        "Vicente C. Sotto III",
+        "Antonio \"Sonny\" F. Trillanes",
+        "Grace L. Poe",
+        "Francis \"Chiz\" G. Escudero",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Loren B. Legarda",
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/16/2017)",
+    "subjects": [
+        "Armed Forces of the Philippines (AFP)",
+        "Bureau of Fire Protection",
+        "Bureau of Jail Management and Penology",
+        "Bureau of Corrections (Bucor)",
+        "Philippine National Police (PNP)",
+        "Philippine Coast Guard",
+        "National Bureau of Investigation (NBI)"
+    ],
+    "primaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation"
+    ],
+    "secondaryCommittee": [
+        "Education, Arts and Culture",
+        "Ways and Means",
+        "Finance"
+    ]
+}

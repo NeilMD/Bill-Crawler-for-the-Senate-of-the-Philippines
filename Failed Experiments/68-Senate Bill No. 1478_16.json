@@ -1,0 +1,29 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1478",
+    "billTitle": "PHILIPPINE BAMBOO INDUSTRY DEVELOPMENT ACT OF 2017",
+    "dateFiled": "2017-05-30",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Loren B. Legarda",
+        "Cynthia A. Villar",
+        "Juan Miguel F. Zubiri",
+        "Richard J. Gordon",
+        "Aquilino Koko III L. Pimentel",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Joel Villanueva",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/31/2017)",
+    "subjects": [
+        "Bamboo Industry"
+    ],
+    "primaryCommittee": [
+        "Trade, Commerce and Entrepreneurship"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

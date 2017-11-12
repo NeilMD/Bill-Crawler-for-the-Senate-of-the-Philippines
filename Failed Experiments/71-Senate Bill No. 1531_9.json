@@ -1,0 +1,26 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1531",
+    "billTitle": "ENERGY EFFICIENCY AND CONSERVATION ACT OF 2017",
+    "dateFiled": "2017-07-31",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Maria Lourdes Nancy S. Binay",
+        "Antonio \"Sonny\" F. Trillanes",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/1/2017)",
+    "subjects": [
+        "Energy Conservation",
+        "Conservation"
+    ],
+    "primaryCommittee": [
+        "Energy"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Public Services",
+        "Finance"
+    ]
+}

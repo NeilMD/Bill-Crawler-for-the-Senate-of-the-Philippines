@@ -1,0 +1,21 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1572",
+    "billTitle": "PHILIPPINE SPACE DEVELOPMENT ACT",
+    "dateFiled": "2017-08-29",
+    "senatorProposed": [
+        "Vicente C. Sotto III"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (8/30/2017)",
+    "subjects": [
+        "Philippine Space Development",
+        "Philippine Space Agency (Philsa)"
+    ],
+    "primaryCommittee": [
+        "Science and Technology"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

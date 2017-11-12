@@ -1,0 +1,24 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1454",
+    "billTitle": "AGRICULTURAL FREE PATENT REFORM ACT OF 2017",
+    "dateFiled": "2017-05-16",
+    "senatorProposed": [
+        "Richard J. Gordon",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Cynthia A. Villar"
+    ],
+    "scope": "National",
+    "status": "Pending in the House of Representatives (5/31/2017)",
+    "subjects": [
+        "Patents",
+        "Public Land Act (Commonwealth Act No. 141)",
+        "Commonwealth Act"
+    ],
+    "primaryCommittee": [
+        "Justice and Human Rights"
+    ],
+    "secondaryCommittee": [
+        "Environment and Natural Resources"
+    ]
+}

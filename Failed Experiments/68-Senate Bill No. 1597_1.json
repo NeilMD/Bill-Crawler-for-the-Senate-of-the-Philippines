@@ -1,0 +1,26 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1597",
+    "billTitle": "STUDENT FARE DISCOUNT ACT",
+    "dateFiled": "2017-09-27",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Sherwin T. Gatchalian",
+        "Francis \"Chiz\" G. Escudero"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Ordinary Business (10/3/2017)",
+    "subjects": [
+        "Students",
+        "Fare Discount",
+        "Discount Privileges"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Public Services",
+        "Ways and Means"
+    ]
+}

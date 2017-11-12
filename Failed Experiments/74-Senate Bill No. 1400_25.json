@@ -1,0 +1,21 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1400",
+    "billTitle": "COMPREHENSIVE ADDICTION RECOVERY ACT",
+    "dateFiled": "2017-03-16",
+    "senatorProposed": [
+        "Joseph Victor G. Ejercito"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/2/2017)",
+    "subjects": [
+        "Drug Rehabilitation",
+        "Drug Prevention"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Public Order and Dangerous Drugs"
+    ]
+}

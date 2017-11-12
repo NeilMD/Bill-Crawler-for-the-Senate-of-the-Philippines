@@ -1,0 +1,36 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1537",
+    "billTitle": "THE HEALTHY NANAY AND BULILIT ACT",
+    "dateFiled": "2017-08-01",
+    "senatorProposed": [
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Grace L. Poe",
+        "Ralph G. Recto",
+        "Cynthia A. Villar",
+        "Joseph Victor G. Ejercito",
+        "Risa Hontiveros",
+        "Joel Villanueva",
+        "Maria Lourdes Nancy S. Binay",
+        "Loren B. Legarda",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Juan Miguel F. Zubiri",
+        "Richard J. Gordon",
+        "Sherwin T. Gatchalian",
+        "Gregorio B. Honasan II",
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/2/2017)",
+    "subjects": [
+        "Child Nutrition Program",
+        "Maternal/Infant Health"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Women, Children, Family Relations and Gender Equality",
+        "Finance"
+    ]
+}

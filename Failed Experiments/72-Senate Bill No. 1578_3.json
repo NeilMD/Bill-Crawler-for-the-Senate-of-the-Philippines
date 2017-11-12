@@ -1,0 +1,29 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1578",
+    "billTitle": "DEPARTMENT OF HUMAN SETTLEMENTS AND URBAN DEVELOPMENT ACT OF 2017",
+    "dateFiled": "2017-09-04",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Franklin M. Drilon",
+        "Joseph Victor G. Ejercito",
+        "Emmanuel \"Manny\" D. Pacquiao",
+        "Maria Lourdes Nancy S. Binay",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Joel Villanueva",
+        "Sherwin T. Gatchalian",
+        "Antonio \"Sonny\" F. Trillanes"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (9/20/2017)",
+    "subjects": [
+        "Department of Human Settlement and Urban Development"
+    ],
+    "primaryCommittee": [
+        "Urban Planning, Housing and Resettlement"
+    ],
+    "secondaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation",
+        "Finance"
+    ]
+}

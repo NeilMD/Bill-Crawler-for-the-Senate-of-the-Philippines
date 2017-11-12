@@ -1,0 +1,25 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1399",
+    "billTitle": "POLICE COURT ACT OF 2017",
+    "dateFiled": "2017-03-15",
+    "senatorProposed": [
+        "Richard J. Gordon",
+        "Panfilo M. Lacson",
+        "Loren B. Legarda"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/15/2017)",
+    "subjects": [
+        "Police Court",
+        "Judiciary Reorganization Act",
+        "Philippine National Police (PNP)"
+    ],
+    "primaryCommittee": [
+        "Justice and Human Rights"
+    ],
+    "secondaryCommittee": [
+        "Public Order and Dangerous Drugs",
+        "Finance"
+    ]
+}

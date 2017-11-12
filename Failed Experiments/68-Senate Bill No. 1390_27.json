@@ -1,0 +1,27 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1390",
+    "billTitle": "PHILIPPINE HIV AND AIDS POLICY ACT",
+    "dateFiled": "2017-03-13",
+    "senatorProposed": [
+        "Risa Hontiveros",
+        "Loren B. Legarda",
+        "Antonio \"Sonny\" F. Trillanes",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Grace L. Poe",
+        "Maria Lourdes Nancy S. Binay"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (3/14/2017)",
+    "subjects": [
+        "Human Immuno Deficiency Virus (HIV)",
+        "Acquired Immune Deficiency Syndrome (AIDS)"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Education, Arts and Culture",
+        "Finance"
+    ]
+}

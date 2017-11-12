@@ -1,0 +1,26 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1395",
+    "billTitle": "RIGHTSIZING THE NATIONAL GOVERNMENT ACT",
+    "dateFiled": "2017-03-15",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Vicente C. Sotto III",
+        "Juan Miguel F. Zubiri",
+        "Gregorio B. Honasan II",
+        "Antonio \"Sonny\" F. Trillanes"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (3/15/2017)",
+    "subjects": [
+        "Rightsizing the National Government",
+        "Reorganization",
+        "Government Reorganization"
+    ],
+    "primaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

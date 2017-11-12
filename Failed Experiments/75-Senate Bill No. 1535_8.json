@@ -1,0 +1,23 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1535",
+    "billTitle": "ANTI-EPAL LAW",
+    "dateFiled": "2017-08-01",
+    "senatorProposed": [
+        "Emmanuel \"Manny\" D. Pacquiao"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (8/2/2017)",
+    "subjects": [
+        "Anti-Epal",
+        "Signage",
+        "Government Projects",
+        "Government Official/Public Official"
+    ],
+    "primaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation"
+    ],
+    "secondaryCommittee": [
+        "Public Works"
+    ]
+}

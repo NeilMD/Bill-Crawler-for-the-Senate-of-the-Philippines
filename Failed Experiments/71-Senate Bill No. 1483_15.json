@@ -1,0 +1,24 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1483",
+    "billTitle": "FISCAL AND MONETARY REPORT ACT OF 2017",
+    "dateFiled": "2017-05-30",
+    "senatorProposed": [
+        "Ralph G. Recto",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending in the House of Representatives (9/20/2017)",
+    "subjects": [
+        "Department of Finance",
+        "Department of Budget and Management (DBM)",
+        "National Economic Development Authority (NEDA)",
+        "Bangko Sentral Ng Pilipinas (BSP)"
+    ],
+    "primaryCommittee": [
+        "Economic Affairs"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

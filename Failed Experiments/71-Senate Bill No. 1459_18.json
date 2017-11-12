@@ -1,0 +1,25 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1459",
+    "billTitle": "PERSONAL PROPERTY SECURITY ACT",
+    "dateFiled": "2017-05-16",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Francis \"Chiz\" G. Escudero",
+        "Cynthia A. Villar",
+        "Sherwin T. Gatchalian",
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (5/22/2017)",
+    "subjects": [
+        "Personal Property",
+        "Micro, Small and Medium Enterprises"
+    ],
+    "primaryCommittee": [
+        "Banks, Financial Institutions and Currencies"
+    ],
+    "secondaryCommittee": [
+        "Finance"
+    ]
+}

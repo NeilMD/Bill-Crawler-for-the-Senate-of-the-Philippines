@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1424",
+    "billTitle": "PHILIPPINE CENTER FOR DIABETES AND ENDOCRINOLOGY",
+    "dateFiled": "2017-05-02",
+    "senatorProposed": [
+        "Joel Villanueva"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (5/3/2017)",
+    "subjects": [
+        "Center for Diabetes and Endocrinology",
+        "Diabetes"
+    ],
+    "primaryCommittee": [
+        "Health and Demography"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

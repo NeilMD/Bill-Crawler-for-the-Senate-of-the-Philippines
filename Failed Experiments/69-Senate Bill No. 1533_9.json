@@ -1,0 +1,30 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1533",
+    "billTitle": "BALIK SCIENTIST ACT",
+    "dateFiled": "2017-07-31",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Grace L. Poe",
+        "Joseph Victor G. Ejercito",
+        "Aquilino Koko III L. Pimentel",
+        "Juan Miguel F. Zubiri",
+        "Joel Villanueva",
+        "Cynthia A. Villar",
+        "Richard J. Gordon",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/2/2017)",
+    "subjects": [
+        "Balik Scientist Program",
+        "Scientists/Researchers"
+    ],
+    "primaryCommittee": [
+        "Science and Technology"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

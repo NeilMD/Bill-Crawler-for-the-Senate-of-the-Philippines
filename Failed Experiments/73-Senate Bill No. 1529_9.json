@@ -1,0 +1,28 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1529",
+    "billTitle": "NATIONAL MUSEUM OF THE PHILIPPINES ACT",
+    "dateFiled": "2017-07-31",
+    "senatorProposed": [
+        "Loren B. Legarda",
+        "Maria Lourdes Nancy S. Binay",
+        "Antonio \"Sonny\" F. Trillanes",
+        "Paolo Benigno \"Bam\" Aquino IV",
+        "Joseph Victor G. Ejercito",
+        "Francis \"Chiz\" G. Escudero",
+        "Juan Miguel F. Zubiri",
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/16/2017)",
+    "subjects": [
+        "National Museum"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Ways and Means",
+        "Finance"
+    ]
+}

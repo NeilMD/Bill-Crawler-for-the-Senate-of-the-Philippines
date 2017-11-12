@@ -1,0 +1,25 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1496",
+    "billTitle": "DRUG-FREE PRISONS ACT OF 2017",
+    "dateFiled": "2017-07-06",
+    "senatorProposed": [
+        "Leila M. De Lima"
+    ],
+    "scope": "National",
+    "status": "Pending in the Committee (7/25/2017)",
+    "subjects": [
+        "Drug Testing",
+        "Bureau of Corrections (Bucor)",
+        "Bureau of Jail Management and Penology",
+        "Prisoners/Inmates",
+        "Illegal Drugs"
+    ],
+    "primaryCommittee": [
+        "Public Order and Dangerous Drugs"
+    ],
+    "secondaryCommittee": [
+        "Justice and Human Rights",
+        "Finance"
+    ]
+}

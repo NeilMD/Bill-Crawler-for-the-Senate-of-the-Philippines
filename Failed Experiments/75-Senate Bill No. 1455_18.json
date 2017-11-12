@@ -1,0 +1,24 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1455",
+    "billTitle": "THE FILIPINO SIGN LANGUAGE ACT",
+    "dateFiled": "2017-05-16",
+    "senatorProposed": [
+        "Maria Lourdes Nancy S. Binay",
+        "Sherwin T. Gatchalian"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/16/2017)",
+    "subjects": [
+        "Sign Language",
+        "Deaf-Mute",
+        "Filipino Sign Language"
+    ],
+    "primaryCommittee": [
+        "Education, Arts and Culture"
+    ],
+    "secondaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation",
+        "Finance"
+    ]
+}

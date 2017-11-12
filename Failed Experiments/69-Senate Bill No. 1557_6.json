@@ -1,0 +1,29 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1557",
+    "billTitle": "SALARY GRADE 1, INCREASE SALARY FROM PHP9,000.00 TO PHP11,068.00",
+    "dateFiled": "2017-08-16",
+    "senatorProposed": [
+        "Franklin M. Drilon",
+        "Antonio \"Sonny\" F. Trillanes",
+        "Loren B. Legarda",
+        "Juan Edgardo \"Sonny\" M. Angara",
+        "Gregorio B. Honasan II"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/16/2017)",
+    "subjects": [
+        "Salary Grade",
+        "Compensation and Position Classification System",
+        "Government Employees",
+        "Military and Uniformed Personnel",
+        "Salary Standardization"
+    ],
+    "primaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation"
+    ],
+    "secondaryCommittee": [
+        "National Defense and Security",
+        "Finance"
+    ]
+}

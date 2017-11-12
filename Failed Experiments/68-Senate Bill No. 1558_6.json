@@ -1,0 +1,25 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1558",
+    "billTitle": "SAFE STREETS, WORKPLACES AND PUBLIC SPACES ACT OF 2017",
+    "dateFiled": "2017-08-16",
+    "senatorProposed": [
+        "Risa Hontiveros",
+        "Grace L. Poe",
+        "Joel Villanueva"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/22/2017)",
+    "subjects": [
+        "Sexual Harassment",
+        "Gender-Based Street/Safe Streets and Public Spaces"
+    ],
+    "primaryCommittee": [
+        "Women, Children, Family Relations and Gender Equality"
+    ],
+    "secondaryCommittee": [
+        "Civil Service, Government Reorganization and Professional Regulation",
+        "Labor, Employment and Human Resources Development",
+        "Justice and Human Rights"
+    ]
+}

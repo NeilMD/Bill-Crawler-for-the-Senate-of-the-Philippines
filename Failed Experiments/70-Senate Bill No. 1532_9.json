@@ -1,0 +1,22 @@
+{
+    "congressNumber": "17th Congress",
+    "billNumber": "Senate Bill No. 1532",
+    "billTitle": "INNOVATIVE STARTUP ACT",
+    "dateFiled": "2017-07-31",
+    "senatorProposed": [
+        "Paolo Benigno \"Bam\" Aquino IV"
+    ],
+    "scope": "National",
+    "status": "Pending Second Reading, Special Order (8/1/2017)",
+    "subjects": [
+        "Innovations/Innovative Technology"
+    ],
+    "primaryCommittee": [
+        "Science and Technology"
+    ],
+    "secondaryCommittee": [
+        "Trade, Commerce and Entrepreneurship",
+        "Ways and Means",
+        "Finance"
+    ]
+}

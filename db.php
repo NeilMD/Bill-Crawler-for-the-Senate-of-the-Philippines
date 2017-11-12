@@ -21,13 +21,15 @@
 
 		$names = $dateAndNames[1];
 		$namesArr = explode(",", $names);
-		
+	
 		//INSERT TO DB PER NAME
 		for($ctr = 0 ; $ctr < sizeof($namesArr); $ctr+=2){
 			$completeName = rtrim(ltrim($namesArr[$ctr+1])).' '.rtrim(ltrim($namesArr[$ctr]));			
 			$sql = "INSERT INTO Bills
 					 	 VALUES (0,{$number}, '{$date}', '{$completeName}','{$title}');";
-			
+			echo "<br/>";						 	 
+			echo $completeName;			
+			echo "<br/>";	
 			// //INSERT TO DB
 			// if($db->real_query($sql) === TRUE ){
 			// 	echo "Success! Data inserted."."<br/>";
